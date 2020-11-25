@@ -1,5 +1,6 @@
 #!/bin/env/python
 '''
+## [Title]: Momentum.py -- a script to scrape the FinViz.com website via their screener function.
 ## [Author]: @delta_kiloz
 ##-------------------------------------------------------------------------------------------------------------
 ## [Details]:
