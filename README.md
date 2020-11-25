@@ -3,4 +3,5 @@ This script was written based on Adam Khoo's Stock Trading Course level 2 (Marke
 
 # Prerequisite Requirements
 pip install rich
+
 pip install finvizlite
